@@ -1,2 +1,2 @@
-# naresh-poerfolio
-portfolio
+# personal_portfolio
+ to display all my projects at one place
